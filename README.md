@@ -2,7 +2,7 @@
 
 # Hi, I'm Ayaka 👋
 
-**Web Designer × Fullstack Engineer**
+### Web Designer × Fullstack Engineer
 
 After working in web design, I expanded into software development so I could bring the experiences I design to life more directly. I approach product development from both design and implementation perspectives, with a focus on clear, intuitive interfaces.
 
@@ -15,7 +15,7 @@ After working in web design, I expanded into software development so I could bri
 ### 🛠 Languages & Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,js,html,css,wordpress,figma,git,github,ai,ps&theme=dark" width="384" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,js,html,css,wordpress,figma,git,github,ai,ps&theme=dark" width="365" alt="My Skills" />
 </a>
 
 ---
