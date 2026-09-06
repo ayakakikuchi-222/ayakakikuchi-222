@@ -12,6 +12,12 @@ After working in web design, I expanded into software development so I could bri
 
 ---
 
+### 🛠 Languages & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,html,css,wordpress,figma,git,github,ai,ps&theme=dark)](https://skillicons.dev)
+
+---
+
 ### 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayaka-k-581507240)
