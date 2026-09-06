@@ -14,7 +14,9 @@ After working in web design, I expanded into software development so I could bri
 
 ### 🛠 Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,html,css,wordpress,figma,git,github,ai,ps&theme=dark)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,js,html,css,wordpress,figma,git,github,ai,ps&theme=dark" width="427" alt="My Skills" />
+</a>
 
 ---
 
