@@ -8,7 +8,7 @@ After working in web design, I expanded into software development so I could bri
 
 👇 Check out my portfolio for projects, skills, and experience!
 
-### 🔗 Portfolio: [ayakakikuchi-222.github.io/profile](https://ayakakikuchi-222.github.io/profile/)
+🔗 **Portfolio:** [ayakakikuchi-222.github.io/profile](https://ayakakikuchi-222.github.io/profile/)
 
 ---
 
