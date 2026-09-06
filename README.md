@@ -2,7 +2,7 @@
 
 # Hi, I'm Ayaka 👋
 
-**Web Designer × Fullstack Engineer** — I create intuitive, thoughtful digital experiences.
+**Web Designer × Fullstack Engineer**
 
 After working in web design, I expanded into software development so I could bring the experiences I design to life more directly. I approach product development from both design and implementation perspectives, with a focus on clear, intuitive interfaces.
 
