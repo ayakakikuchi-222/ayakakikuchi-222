@@ -1,3 +1,5 @@
+![Design × Code](./images/banner.jpg)
+
 # Hi, I'm Ayaka 👋
 
 **Web Designer × Fullstack Engineer** — I create intuitive, thoughtful digital experiences.
