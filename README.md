@@ -1,4 +1,4 @@
-![Design × Code](./images/banner.jpg)
+![Design × Code](./images/banner-v2.jpg)
 
 # Hi, I'm Ayaka 👋
 
